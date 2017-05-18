@@ -1,0 +1,9 @@
+﻿18.05.2017 18:47:57  read  raz.csv
+18.05.2017 18:47:59  file raz.pdf has NOT move! Error: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом.
+18.05.2017 18:47:59  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz.pdf
+18.05.2017 18:47:59  file raz.csv move in Sended
+18.05.2017 18:48:00  read  test.csv
+18.05.2017 18:48:00  SUCCESSFUL sending mail to Egor-1313@yandex.ru with message "Hello world2!"
+18.05.2017 18:48:00  file test.csv move in Sended
+18.05.2017 18:48:00  2 letters have been sent successful
+18.05.2017 18:48:00  0 letters have NOT been sent

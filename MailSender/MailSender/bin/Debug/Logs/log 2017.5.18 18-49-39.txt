@@ -1,0 +1,65 @@
+﻿18.05.2017 18:49:39  read  error3 — копия (2).csv
+18.05.2017 18:49:40  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message ""
+18.05.2017 18:49:41  file error3 — копия (2).csv move in Sended
+18.05.2017 18:49:41  read  error3 — копия (3).csv
+18.05.2017 18:49:42  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message ""
+18.05.2017 18:49:43  file error3 — копия (3).csv move in Sended
+18.05.2017 18:49:43  read  error3 — копия.csv
+18.05.2017 18:49:44  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message ""
+18.05.2017 18:49:44  file error3 — копия.csv move in Sended
+18.05.2017 18:49:45  read  error3.csv
+18.05.2017 18:49:45  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message ""
+18.05.2017 18:49:45  file error3.csv move in Sended
+18.05.2017 18:49:46  read  raz — копия (2) — копия — копия.csv
+18.05.2017 18:49:47  file raz — копия (2) — копия — копия.pdf move in Sended
+18.05.2017 18:49:47  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz — копия (2) — копия — копия.pdf
+18.05.2017 18:49:47  file raz — копия (2) — копия — копия.csv move in Sended
+18.05.2017 18:49:48  read  raz — копия (2) — копия.csv
+18.05.2017 18:49:48  file raz — копия (2) — копия.pdf move in Sended
+18.05.2017 18:49:48  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz — копия (2) — копия.pdf
+18.05.2017 18:49:48  file raz — копия (2) — копия.csv move in Sended
+18.05.2017 18:49:49  read  raz — копия (2).csv
+18.05.2017 18:49:50  file raz — копия (2).pdf move in Sended
+18.05.2017 18:49:50  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz — копия (2).pdf
+18.05.2017 18:49:50  file raz — копия (2).csv move in Sended
+18.05.2017 18:49:50  read  raz — копия (3) — копия.csv
+18.05.2017 18:49:51  file raz — копия (3) — копия.pdf move in Sended
+18.05.2017 18:49:51  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz — копия (3) — копия.pdf
+18.05.2017 18:49:51  file raz — копия (3) — копия.csv move in Sended
+18.05.2017 18:49:52  read  raz — копия (3).csv
+18.05.2017 18:49:52  file raz — копия (3).pdf move in Sended
+18.05.2017 18:49:52  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz — копия (3).pdf
+18.05.2017 18:49:53  file raz — копия (3).csv move in Sended
+18.05.2017 18:49:53  read  raz — копия (4) — копия.csv
+18.05.2017 18:49:54  file raz — копия (4) — копия.pdf move in Sended
+18.05.2017 18:49:54  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz — копия (4) — копия.pdf
+18.05.2017 18:49:54  file raz — копия (4) — копия.csv move in Sended
+18.05.2017 18:49:54  read  raz — копия (4).csv
+18.05.2017 18:49:55  file raz — копия (4).pdf move in Sended
+18.05.2017 18:49:55  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz — копия (4).pdf
+18.05.2017 18:49:56  file raz — копия (4).csv move in Sended
+18.05.2017 18:49:56  read  raz — копия — копия (2).csv
+18.05.2017 18:49:57  file raz — копия — копия (2).pdf move in Sended
+18.05.2017 18:49:57  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz — копия — копия (2).pdf
+18.05.2017 18:49:57  file raz — копия — копия (2).csv move in Sended
+18.05.2017 18:49:57  read  raz — копия — копия (3).csv
+18.05.2017 18:49:58  file raz — копия — копия (3).pdf move in Sended
+18.05.2017 18:49:58  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz — копия — копия (3).pdf
+18.05.2017 18:49:58  file raz — копия — копия (3).csv move in Sended
+18.05.2017 18:49:59  read  raz — копия — копия.csv
+18.05.2017 18:50:00  file raz — копия — копия.pdf move in Sended
+18.05.2017 18:50:00  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz — копия — копия.pdf
+18.05.2017 18:50:00  file raz — копия — копия.csv move in Sended
+18.05.2017 18:50:00  read  raz — копия.csv
+18.05.2017 18:50:01  file raz — копия.pdf move in Sended
+18.05.2017 18:50:01  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz — копия.pdf
+18.05.2017 18:50:01  file raz — копия.csv move in Sended
+18.05.2017 18:50:01  read  raz.csv
+18.05.2017 18:50:03  file raz.pdf move in Sended
+18.05.2017 18:50:03  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz.pdf
+18.05.2017 18:50:03  file raz.csv move in Sended
+18.05.2017 18:50:03  read  test.csv
+18.05.2017 18:50:04  SUCCESSFUL sending mail to Egor-1313@yandex.ru with message "Hello world2!"
+18.05.2017 18:50:04  file test.csv move in Sended
+18.05.2017 18:50:04  17 letters have been sent successful
+18.05.2017 18:50:04  0 letters have NOT been sent

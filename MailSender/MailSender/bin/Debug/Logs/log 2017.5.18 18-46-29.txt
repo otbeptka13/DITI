@@ -1,0 +1,11 @@
+﻿18.05.2017 18:46:29  read  raz — копия — копия.csv
+18.05.2017 18:46:30  file raz — копия — копия.pdf has NOT move! Error: Файл 'C:\Solutions\MailSender\MailSender\bin\Debug\raz — копия — копия.pdf' не найден.
+18.05.2017 18:46:30  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz — копия — копия.pdf
+18.05.2017 18:46:30  file raz — копия — копия.csv move in Sended
+18.05.2017 18:46:31  read  raz — копия.csv
+18.05.2017 18:46:32  file raz — копия.pdf has NOT move! Error: Файл 'C:\Solutions\MailSender\MailSender\bin\Debug\raz — копия.pdf' не найден.
+18.05.2017 18:46:32  SUCCESSFUL sending mail to otbeptka.1313@gmail.com with message "Привет! Hello world1!". With attachment: raz — копия.pdf
+18.05.2017 18:46:32  file raz — копия.csv move in Sended
+18.05.2017 18:46:32  User cancelled process!
+18.05.2017 18:46:32  2 letters have been sent successful
+18.05.2017 18:46:32  0 letters have NOT been sent

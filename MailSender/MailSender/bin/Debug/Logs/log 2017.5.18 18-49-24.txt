@@ -1,0 +1,3 @@
+﻿18.05.2017 18:49:24   *.csv files NOT FOUND in C:\Users\Egor-\Desktop\fsdasfsf
+18.05.2017 18:49:24  0 letters have been sent successful
+18.05.2017 18:49:24  0 letters have NOT been sent
